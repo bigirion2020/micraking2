@@ -4,7 +4,7 @@
 }
 
 header {
-  background-color: blue;
+  background-color: green;
   height: 500px;
   background-image: url(top.jpg);
   background-repeat: no-repeat;
@@ -33,7 +33,10 @@ h1 {
 }
 
 .topNav ul a {
-  color: white;
+  text-decoration: none;
+  color: green;
+  background-color: white;
+  padding: 10px 15px;
 }
 
 article {
